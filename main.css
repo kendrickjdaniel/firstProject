@@ -1,15 +1,16 @@
 body{
-    background: black;
+    background: yellowgreen;
     color: azure;
+    font-family: 'Charmonman', cursive;
 }
 
 #firstParagraph{
-    font-size: 36px;
+    font-size: 30px;
     font-weight: bolder;
 }
 
 .headers{
-    color:yellowgreen;
-    font-family: Arial, Helvetica, sans-serif;
+    color:rgb(9, 9, 9);
     text-align: center;
+    font-size: 100px;
 }
